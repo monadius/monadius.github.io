@@ -88,8 +88,9 @@ nav ul li a {
     /* text-transform: uppercase; */
 }
 nav ul li a:hover {
-    color: #ffffff;
-    background-color: #000000;
+    color: #76a0dd;
+/*    color: #ffffff;
+    background-color: #000000; */
 }
 .heading {
     font: 1.5em Raleway, Helvetica;
