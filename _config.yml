@@ -1,1 +1,22 @@
-theme: jekyll-theme-slate
+title: Alexey Solovyev
+email: alexey.monadius@gmail.com
+description: Alexey Solovyev's personal site hosted on GitHub Pages.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://monadius.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: monadius
+
+exclude: [README.md, LICENSE]
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+
+# Main menu
+navigation:
+- text: Home
+  url: /
+- text: Research
+  url: /research/
+- text: Projects
+  url: /projects/
