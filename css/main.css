@@ -66,7 +66,7 @@ header h1 a:hover {
     color: #ffffff;*/
     text-decoration-color: #324787;
     text-decoration-style: solid;
-    text-decoration-line: underline;
+    text-decoration: underline !important;
 }
 nav {
     /* font-weight: 200; */
@@ -79,7 +79,7 @@ nav {
 nav ul li {
     display: inline;
     color: #9f9f9f;
-	font-size: 125%;
+    font-size: 125%;
 }
 nav ul li a {
     color: #324787;

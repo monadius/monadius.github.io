@@ -10,8 +10,8 @@
         {% assign current = 'current' %}
       {% endif %}
 
-      <li class="{{ current }}">
-        <a class="{{ current }}" href="{{ site.url }}{{ link.url }}">{{ link.text }}</a>
+      <li>
+        <a href="{{ site.url }}{{ link.url }}"><span class="{{ current }}">{{ link.text }}</span></a>
       </li>
     {% endfor %}
   </ul>
