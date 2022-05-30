@@ -25,3 +25,5 @@ Then I was a postdoctoral researcher in the School of Computing at the Universit
 [LinkedIn](https://www.linkedin.com/pub/alexey-solovyev/63/9/525)
 
 [Codewars](https://www.codewars.com/users/monadius/)
+
+[ResearchGate](https://www.researchgate.net/profile/Alexey_Solovyev2)
